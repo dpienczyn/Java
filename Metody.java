@@ -1,3 +1,5 @@
+//Na koniec mam dla Ciebie małe ćwiczenie. Napisz metodę, która sprawdzi czy 
+//temperatura przekazana jako argument jest dodatnia.
 package pl.javastart.pakiety;
 
 public class Metody {
